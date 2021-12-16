@@ -16,8 +16,6 @@
 <param ve-entity eid="Q36600"> <!-- India -->
 
 
-# Basic usage
-
 ## Image
 
 __Hortus Malabaricus__ (English: The Garden of Malabar) is a 12 volume treatise on the medicinal plants of the Malabar coast in Southwestern India. It was compiled and written by a Dutch official of the Dutch East India Company named Hendrick van Rheede, with assistance from his informant and Ezhava herbalist Itty Achudan.[^1]
