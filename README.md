@@ -32,12 +32,11 @@ __Hortus Malabaricus__ (English: The Garden of Malabar) is a 12 volume treatise 
 The Malabar coast was home to hundreds of plants that had medicinal properties that was only known to the native inhabitants. With a team of around 200 collectors, scientists, and informants, Van Rheede managed to collect and document over 700 specimens of plant life that held great medicinal value.
 <param ve-map center="9.1526° N, 76.7398°" zoom="11" prefer-geojson>
 
-## Multiple viewers
+## Specimen
 
-Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
-Others are selectable using icons displayed in the top right margin of the paragraph.
+Each specimine of Malabar's flora was painstakingly drawn, in the case of this coconut tree, and named in Latin, Arabic, Malayalam, and Konkani. Latin was the most widespread version of the Hortus Malabaricus until K.S. Manilal went through the process of translating it to English in 2003, over 300 years after its original publication.
 <param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
+       manifest="https://cdn.thewire.in/wp-content/uploads/2018/09/30115622/Coconut-illustration-Hortus_Malabaricus_Volume_1.pdf-1024x809.jpg">
 <param ve-map center="Q36600" zoom="11">
 
 # References
