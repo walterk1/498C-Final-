@@ -36,7 +36,7 @@ The Malabar coast was home to hundreds of plants that had medicinal properties t
 
 Each specimine of Malabar's flora was painstakingly drawn, in the case of this coconut tree, and named in Latin, Arabic, Malayalam, and Konkani. Latin was the most widespread version of the Hortus Malabaricus until K.S. Manilal went through the process of translating it to English in 2003, over 300 years after its original publication.
 <param ve-image 
-       manifest="https://cdn.thewire.in/wp-content/uploads/2018/09/30115622/Coconut-illustration-Hortus_Malabaricus_Volume_1.pdf-1024x809.jpg">
+       url="https://cdn.thewire.in/wp-content/uploads/2018/09/30115622/Coconut-illustration-Hortus_Malabaricus_Volume_1.pdf-1024x809.jpg">
 
 # References
 
