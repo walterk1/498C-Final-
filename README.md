@@ -40,4 +40,4 @@ Each specimine of Malabar's flora was painstakingly drawn, in the case of this c
 
 # References
 
-[^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
+[^1]: [Wikipedia: Hortus Malabaricus](https://en.wikipedia.org/wiki/Hortus_Malabaricus)
