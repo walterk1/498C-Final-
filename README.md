@@ -2,8 +2,8 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Girl with a Pearl Earring"
-       author="JSTOR Labs team"
+       title="Hortus Malabaricus"
+       author="Walter Klyshevich"
        banner="https://www.onmanorama.com/content/dam/mm/en/news/columns/keralaspora/images/2020/10/4/hortus-malabaricus.jpg.transform/onm-articleimage/image.jpg" 
        layout="vertical">
 
