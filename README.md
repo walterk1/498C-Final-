@@ -38,4 +38,4 @@ Each specimine of Malabar's flora was painstakingly drawn, in the case of this c
 
 # References
 
-[^1]: [Wikipedia: Hortus Malabaricus](https://en.wikipedia.org/wiki/Hortus_Malabaricus)
+[^1]: [Google docs: Hortus Malabaricus Essay](https://docs.google.com/document/d/1VTpmDMW8Hvei0ZNEnyDvzMCgd41FlTlPRFq6QLcqOd0/edit)
