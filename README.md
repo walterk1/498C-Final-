@@ -4,7 +4,7 @@
 <param ve-config 
        title="Hortus Malabaricus"
        author="Walter Klyshevich"
-       banner="https://www.onmanorama.com/content/dam/mm/en/news/columns/keralaspora/images/2020/10/4/hortus-malabaricus.jpg.transform/onm-articleimage/image.jpg" 
+       banner="https://img.onmanorama.com/content/dam/mm/en/news/columns/keralaspora/images/2020/10/4/hortus-malabaricus.jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
