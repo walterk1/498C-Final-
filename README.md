@@ -29,8 +29,7 @@ __Hortus Malabaricus__ (English: The Garden of Malabar) is a 12 volume treatise 
 
 ## Map
 
-The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
-literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
+The Malabar coast was home to hundreds of plants that had medicinal properties that was only known to the native inhabitants. With a team of around 200 collectors, scientists, and informants, Van Rheede managed to collect and document over 700 specimens of plant life that held great medicinal value.
 <param ve-map center="Q36600" zoom="11" prefer-geojson>
 
 ## Multiple viewers
