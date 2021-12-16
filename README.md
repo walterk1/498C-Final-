@@ -5,7 +5,7 @@
        title="Hortus Malabaricus"
        author="Walter Klyshevich"
        banner="https://img.onmanorama.com/content/dam/mm/en/news/columns/keralaspora/images/2020/10/4/hortus-malabaricus.jpg" 
-       layout="Horizontal">
+       layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
